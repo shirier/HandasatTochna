@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Text.Json;
+using System.Text.Json.Serialization;
 
 namespace ServiceLayer
 {
@@ -11,27 +13,29 @@ namespace ServiceLayer
         private BoardFacade boardFacade;
         public string create(string email, string boardname)
         {
-            throw new NotImplementedException();
+            return JsonSerializer.Serialize(new Response("Not impleneted yet"));
         }
         public string delete(string email, string boardname)
         {
-            throw new NotImplementedException();
+            return JsonSerializer.Serialize(new Response("Not impleneted yet"));
         }
         public string createTask(string email, string boardname, string title, string description)
         {
-            throw new NotImplementedException();
+            return JsonSerializer.Serialize(new Response("Not impleneted yet"));
         }
         public string deleteTask(string email, string boardname, int id)
         {
-            throw new NotImplementedException();
+            return JsonSerializer.Serialize(new Response("Not impleneted yet"));
         }
 
         public string moveTask(string email, string boardname, int id)
         {
-            throw new NotImplementedException();
+            return JsonSerializer.Serialize(new Response("Not impleneted yet"));
         }
 
-
-
+        public string getBoardAtributes(int boardId)
+        {
+            return JsonSerializer.Serialize(new Response("Not impleneted yet"));
+        }
     }
 }

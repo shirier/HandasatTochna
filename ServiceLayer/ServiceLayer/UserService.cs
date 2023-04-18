@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Text.Json;
+using System.Text.Json.Serialization;
 
 namespace ServiceLayer
 {
@@ -14,34 +16,34 @@ namespace ServiceLayer
         //User related functions
         public string register(string email, string password)
         {
-            throw new NotImplementedException();
+            return JsonSerializer.Serialize(new Response("Not impleneted yet"));
         }
 
         public string login(string email, string password)
         {
-            throw new NotImplementedException();
+            return JsonSerializer.Serialize(new Response("Not impleneted yet"));
         }
         public string logout(string email)
         {
-            throw new NotImplementedException();
+            return JsonSerializer.Serialize(new Response("Not impleneted yet"));
         }
 
 
 
         //Board related functions
-        public List<BoardService> getBoards(string email)
+        public string getBoards(string email)
         {
-            throw new NotImplementedException();
+            return JsonSerializer.Serialize(new Response("Not impleneted yet"));
         }
 
         public string createBoard(string email, string boardname)
         {
-            throw new NotImplementedException();
+            return JsonSerializer.Serialize(new Response("Not impleneted yet"));
         }
 
         public string deleteBoard(string email, string boardname)
         {
-            throw new NotImplementedException();
+            return JsonSerializer.Serialize(new Response("Not impleneted yet"));
         }
     }
 }
