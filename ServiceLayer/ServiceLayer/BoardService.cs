@@ -28,6 +28,19 @@ namespace ServiceLayer
             return JsonSerializer.Serialize(new Response("Not impleneted yet"));
         }
 
+        public string setBacklogLimit(int limit)
+        {
+            return JsonSerializer.Serialize(new Response("Not impleneted yet"));
+        }
+        public string setInProgressLimit(int limit)
+        {
+            return JsonSerializer.Serialize(new Response("Not impleneted yet"));
+        }
+        public string setDoneLimit(int limit)
+        {
+            return JsonSerializer.Serialize(new Response("Not impleneted yet"));
+        }
+
         public string moveTask(string email, string boardname, int id)
         {
             return JsonSerializer.Serialize(new Response("Not impleneted yet"));
