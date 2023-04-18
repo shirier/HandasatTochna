@@ -3,47 +3,51 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Text.Json;
+using System.Text.Json.Serialization;
+
 
 namespace ServiceLayer
 {
     class TaskService
     {
+         
         private TaskFacade taskFacade;
         public string create(string title, string description, List<string> dueTime, List<int> label)
         {
-            throw new NotImplementedException();
+            return JsonSerializer.Serialize(new Response("Not impleneted yet"));
         }
         public string delete(int id)
         {
-            throw new NotImplementedException();
+            return JsonSerializer.Serialize(new Response("Not impleneted yet"));
         }
 
 
         public string changeTitle(int id, string newTitle)
         {
-            throw new NotImplementedException();
+            return JsonSerializer.Serialize(new Response("Not impleneted yet"));
         }
         public string changeDescription(int id, string newDescription)
         {
-            throw new NotImplementedException();
+            return JsonSerializer.Serialize(new Response("Not impleneted yet"));
         }
         public string changeDue(int id, List<string> newDueTime)
         {
-            throw new NotImplementedException();
+            return JsonSerializer.Serialize(new Response("Not impleneted yet"));
         }
         public string changeId(int id, int newId)
         {
-            throw new NotImplementedException();
+            return JsonSerializer.Serialize(new Response("Not impleneted yet"));
         }
 
 
         public string getTimeLeft(int id)
         {
-            throw new NotImplementedException();
+            return JsonSerializer.Serialize(new Response("Not impleneted yet"));
         }
         public string changeLabel(int id, List<int> newLabel)
         {
-            throw new NotImplementedException();
+            return JsonSerializer.Serialize(new Response("Not impleneted yet"));
         }
 
     }
