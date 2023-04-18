@@ -8,6 +8,7 @@ namespace ServiceLayer
 {
     class BoardService
     {
+        private BoardFacade boardFacade;
         public string create(string email, string boardname)
         {
             throw new NotImplementedException();
