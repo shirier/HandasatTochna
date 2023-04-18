@@ -8,40 +8,42 @@ namespace ServiceLayer
 {
     class TaskService
     {
-        public string Create(BoardService board, List<string> time, string title, string description, int id)
+        public string create(string title, string description, List<string> dueTime, List<int> label)
         {
             throw new NotImplementedException();
         }
-        public string ChangeStat(int id, string stat)
+        public string delete(int id)
         {
             throw new NotImplementedException();
         }
-        public string ChangeDue(int id, List<string> time)
+
+
+        public string changeTitle(int id, string newTitle)
         {
             throw new NotImplementedException();
         }
-        public string ChangeTitle(string title, List<string> time)
+        public string changeDescription(int id, string newDescription)
         {
             throw new NotImplementedException();
         }
-        public string ChangeDescription(string description, List<string> time)
+        public string changeDue(int id, List<string> newDueTime)
         {
             throw new NotImplementedException();
         }
-        public string Remove(int id)
+        public string changeId(int id, int newId)
         {
             throw new NotImplementedException();
         }
-        public TaskService GetTask(int id)
+
+
+        public string getTimeLeft(int id)
         {
             throw new NotImplementedException();
         }
-        public string GetTimeLeft(int id)
+        public string changeLabel(int id, List<int> newLabel)
         {
             throw new NotImplementedException();
         }
-        public string GetStat(int id)
-        {
-            throw new NotImplementedException();
-        }
+
     }
+}

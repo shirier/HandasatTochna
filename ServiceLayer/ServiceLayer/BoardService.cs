@@ -6,17 +6,30 @@ using System.Threading.Tasks;
 
 namespace ServiceLayer
 {
-    interface BoardService
+    class BoardService
     {
-        public string create(string username, string boardname);
+        public string create(string email, string boardname)
+        {
+            throw new NotImplementedException();
+        }
+        public string delete(string email, string boardname)
+        {
+            throw new NotImplementedException();
+        }
+        public string createTask(string email, string boardname, string title, string description)
+        {
+            throw new NotImplementedException();
+        }
+        public string deleteTask(string email, string boardname, int id)
+        {
+            throw new NotImplementedException();
+        }
 
-        public string delete(string username, string boardname);
+        public string moveTask(string email, string boardname, int id)
+        {
+            throw new NotImplementedException();
+        }
 
-        public string createTask(string username, Task task);
-
-        public string deleteTask(string username, string boardname, Task task);
-
-        public string ChangeName(string username, string boardname);
 
 
     }

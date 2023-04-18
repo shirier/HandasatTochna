@@ -12,25 +12,16 @@ namespace ServiceLayer
         private UserFacade userFacade;
 
         //User related functions
-        public string register(string username, string password, string mail)
+        public string register(string email, string password)
         {
             throw new NotImplementedException();
         }
 
-        public string login(string username, string password, string mail)
+        public string login(string email, string password)
         {
             throw new NotImplementedException();
         }
-        public string logout(string username)
-        {
-            throw new NotImplementedException();
-        }
-
-
-
-
-        //Task related functions
-        public List<TaskService> GetINProgressTasks(string username)
+        public string logout(string email)
         {
             throw new NotImplementedException();
         }
@@ -38,17 +29,17 @@ namespace ServiceLayer
 
 
         //Board related functions
-        public List<BoardService> GetBoards(string username)
+        public List<BoardService> getBoards(string email)
         {
             throw new NotImplementedException();
         }
 
-        public string createBoard(string username, string boardname)
+        public string createBoard(string email, string boardname)
         {
             throw new NotImplementedException();
         }
 
-        public string deleteBoard(string username, string boardname)
+        public string deleteBoard(string email, string boardname)
         {
             throw new NotImplementedException();
         }

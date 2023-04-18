@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\תואר\\סמסטר ב\\הנדסת תוכנה\\ServiceLayer\\ServiceLayer\\ServiceLayer.csproj": {}
+    "C:\\תואר\\סמסטר ב\\הנדסת תוכנה\\HandasatTochna\\ServiceLayer\\ServiceLayer\\ServiceLayer.csproj": {}
   },
   "projects": {
-    "C:\\תואר\\סמסטר ב\\הנדסת תוכנה\\ServiceLayer\\ServiceLayer\\ServiceLayer.csproj": {
+    "C:\\תואר\\סמסטר ב\\הנדסת תוכנה\\HandasatTochna\\ServiceLayer\\ServiceLayer\\ServiceLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\תואר\\סמסטר ב\\הנדסת תוכנה\\ServiceLayer\\ServiceLayer\\ServiceLayer.csproj",
+        "projectUniqueName": "C:\\תואר\\סמסטר ב\\הנדסת תוכנה\\HandasatTochna\\ServiceLayer\\ServiceLayer\\ServiceLayer.csproj",
         "projectName": "ServiceLayer",
-        "projectPath": "C:\\תואר\\סמסטר ב\\הנדסת תוכנה\\ServiceLayer\\ServiceLayer\\ServiceLayer.csproj",
+        "projectPath": "C:\\תואר\\סמסטר ב\\הנדסת תוכנה\\HandasatTochna\\ServiceLayer\\ServiceLayer\\ServiceLayer.csproj",
         "packagesPath": "C:\\Users\\oriei\\.nuget\\packages\\",
-        "outputPath": "C:\\תואר\\סמסטר ב\\הנדסת תוכנה\\ServiceLayer\\ServiceLayer\\obj\\",
+        "outputPath": "C:\\תואר\\סמסטר ב\\הנדסת תוכנה\\HandasatTochna\\ServiceLayer\\ServiceLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
