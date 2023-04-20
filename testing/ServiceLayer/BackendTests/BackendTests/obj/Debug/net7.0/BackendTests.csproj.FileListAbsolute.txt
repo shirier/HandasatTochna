@@ -1,0 +1,15 @@
+C:\Users\yuval\Documents\GitHub\HandasatTochna\ServiceLayer\BackendTests\BackendTests\bin\Debug\net7.0\BackendTests.exe
+C:\Users\yuval\Documents\GitHub\HandasatTochna\ServiceLayer\BackendTests\BackendTests\bin\Debug\net7.0\BackendTests.deps.json
+C:\Users\yuval\Documents\GitHub\HandasatTochna\ServiceLayer\BackendTests\BackendTests\bin\Debug\net7.0\BackendTests.runtimeconfig.json
+C:\Users\yuval\Documents\GitHub\HandasatTochna\ServiceLayer\BackendTests\BackendTests\bin\Debug\net7.0\BackendTests.dll
+C:\Users\yuval\Documents\GitHub\HandasatTochna\ServiceLayer\BackendTests\BackendTests\bin\Debug\net7.0\BackendTests.pdb
+C:\Users\yuval\Documents\GitHub\HandasatTochna\ServiceLayer\BackendTests\BackendTests\obj\Debug\net7.0\BackendTests.csproj.AssemblyReference.cache
+C:\Users\yuval\Documents\GitHub\HandasatTochna\ServiceLayer\BackendTests\BackendTests\obj\Debug\net7.0\BackendTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuval\Documents\GitHub\HandasatTochna\ServiceLayer\BackendTests\BackendTests\obj\Debug\net7.0\BackendTests.AssemblyInfoInputs.cache
+C:\Users\yuval\Documents\GitHub\HandasatTochna\ServiceLayer\BackendTests\BackendTests\obj\Debug\net7.0\BackendTests.AssemblyInfo.cs
+C:\Users\yuval\Documents\GitHub\HandasatTochna\ServiceLayer\BackendTests\BackendTests\obj\Debug\net7.0\BackendTests.csproj.CoreCompileInputs.cache
+C:\Users\yuval\Documents\GitHub\HandasatTochna\ServiceLayer\BackendTests\BackendTests\obj\Debug\net7.0\BackendTests.dll
+C:\Users\yuval\Documents\GitHub\HandasatTochna\ServiceLayer\BackendTests\BackendTests\obj\Debug\net7.0\refint\BackendTests.dll
+C:\Users\yuval\Documents\GitHub\HandasatTochna\ServiceLayer\BackendTests\BackendTests\obj\Debug\net7.0\BackendTests.pdb
+C:\Users\yuval\Documents\GitHub\HandasatTochna\ServiceLayer\BackendTests\BackendTests\obj\Debug\net7.0\BackendTests.genruntimeconfig.cache
+C:\Users\yuval\Documents\GitHub\HandasatTochna\ServiceLayer\BackendTests\BackendTests\obj\Debug\net7.0\ref\BackendTests.dll
