@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "HT1l4W5CZGCpGoK4/Dn4YkKGPrNlv5NDYhLBS5hA0oZUxpoNIMrTw4WgBMGsJgF6oX1aNzz79GqH7FqPORAm0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\שירי\\Desktop\\סמסטר ב\\הנדסת תכנה\\HandasatTochna\\service\\ServiceLayer\\ServiceLayer\\ServiceLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\שירי\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\שירי\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\שירי\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\שירי\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
