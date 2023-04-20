@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="business\**" />
+    <EmbeddedResource Remove="business\**" />
+    <None Remove="business\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="ServiceLayer\" />
+  </ItemGroup>
+
+</Project>

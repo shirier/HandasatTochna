@@ -1,0 +1,5 @@
+C:\Users\yuval\Documents\GitHub\HandasatTochna\ServiceLayer\Backend\Backend\obj\Debug\net7.0\Backend.csproj.AssemblyReference.cache
+C:\Users\yuval\Documents\GitHub\HandasatTochna\ServiceLayer\Backend\Backend\obj\Debug\net7.0\Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuval\Documents\GitHub\HandasatTochna\ServiceLayer\Backend\Backend\obj\Debug\net7.0\Backend.AssemblyInfoInputs.cache
+C:\Users\yuval\Documents\GitHub\HandasatTochna\ServiceLayer\Backend\Backend\obj\Debug\net7.0\Backend.AssemblyInfo.cs
+C:\Users\yuval\Documents\GitHub\HandasatTochna\ServiceLayer\Backend\Backend\obj\Debug\net7.0\Backend.csproj.CoreCompileInputs.cache
