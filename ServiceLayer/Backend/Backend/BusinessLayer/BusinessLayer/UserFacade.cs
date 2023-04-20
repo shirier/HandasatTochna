@@ -4,8 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BusinessLayer
+namespace ServiceLayer
 {
+    /// <summary>
+    /// user facade
+    /// </summary>
     class UserFacade
     {
         private List<User> allUsers;

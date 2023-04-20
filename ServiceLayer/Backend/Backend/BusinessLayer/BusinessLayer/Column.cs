@@ -4,8 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BusinessLayer
+namespace ServiceLayer
 {
+    /// <summary>
+    /// column object
+    /// </summary>
     class Column
     {
         private int maxTasks;

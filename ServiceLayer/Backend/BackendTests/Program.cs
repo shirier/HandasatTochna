@@ -80,10 +80,10 @@ namespace BackendTests
             {
                 desc += "1";
             }
-            List<string> due = new List<string>();
-            due.Add("01");
-            due.Add("01");
-            due.Add("2024");
+            DateTime due = new DateTime();
+            due.AddDays(1);
+            due.AddMonths(1);
+            due.AddYears(2024);
             List<int> lable = new List<int>();
             lable.Add(100);
             lable.Add(100);
@@ -150,10 +150,10 @@ namespace BackendTests
         {
             Console.WriteLine("showing you can change each atribute of the task");
             string title = "title";
-            List<string> due = new List<string>();
-            due.Add("01");
-            due.Add("01");
-            due.Add("2024");
+            DateTime due = new DateTime();
+            due.AddDays(1);
+            due.AddMonths(1);
+            due.AddYears(2024);
             List<int> lable = new List<int>();
             lable.Add(100);
             lable.Add(100);

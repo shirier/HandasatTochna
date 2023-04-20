@@ -4,8 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BusinessLayer
+namespace ServiceLayer
 {
+    /// <summary>
+    /// board object
+    /// </summary>
     class Board
     {
         private string name;

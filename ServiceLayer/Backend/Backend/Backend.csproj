@@ -7,7 +7,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="business\" />
+    <Compile Remove="business\**" />
+    <EmbeddedResource Remove="business\**" />
+    <None Remove="business\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="ServiceLayer\" />
   </ItemGroup>
 

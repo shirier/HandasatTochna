@@ -4,9 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BusinessLayer
+namespace ServiceLayer
 {
-    class TskFacade
+    /// <summary>
+    /// task facade
+    /// </summary>
+    public class TskFacade
     {
         private List<Task> allTasks;
     }

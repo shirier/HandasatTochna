@@ -4,8 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BusinessLayer
+namespace ServiceLayer
 {
+    /// <summary>
+    /// board facade
+    /// </summary>
     class BoardFacade
     {
         private List<Board> allBoards;

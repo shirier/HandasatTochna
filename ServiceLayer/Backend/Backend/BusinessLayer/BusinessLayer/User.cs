@@ -4,8 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BusinessLayer
+namespace ServiceLayer
 {
+    /// <summary>
+    /// user object
+    /// </summary>
     class User
     {
         private string mail;
